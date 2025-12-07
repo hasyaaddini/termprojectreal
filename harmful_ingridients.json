@@ -1,0 +1,7 @@
+{
+  "chocolate": ["cookie"],
+  "garlic": ["pizza", "pasta"],
+  "onion": ["pizza", "pasta"],
+  "grapes": ["salad"],
+  "raisins": ["cookie"]
+}

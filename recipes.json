@@ -1,0 +1,14 @@
+{
+  "pizza": {
+    "pet_safe": "Chicken & pumpkin mini 'pizza' (no cheese, no salt)",
+    "ingredients": ["chicken", "pumpkin", "oat flour"]
+  },
+  "salad": {
+    "pet_safe": "Cucumber, carrot & chicken bowl",
+    "ingredients": ["cucumber", "carrot", "chicken"]
+  },
+  "cookie": {
+    "pet_safe": "Banana-oat dog cookies",
+    "ingredients": ["banana", "oats"]
+  }
+}
